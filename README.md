@@ -9,15 +9,9 @@ Face recognition is a fascinating application in the field of image recognition.
 
 We have a dataset of images in JPG format.
 
-# Overview
-
-[Overview Report](https://docs.google.com/presentation/d/1Qw1z-g5DKBR9NJXAAEP0mrnpBmB8OJ8VrCfYqI0KTHU/edit?usp=sharing)
-
 # Models used 
 
    - KNN
    - SVM
    - MLP
 
-# Project Report 
-[Report](https://docs.google.com/document/d/19p8e8cjtQHPzzwVrS8blb1Ez2lCQyGghQhl9PrBs-Ig/edit?usp=sharing)
